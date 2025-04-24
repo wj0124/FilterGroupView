@@ -1,0 +1,22 @@
+PODS:
+  - LEEAlert (1.8.0):
+    - LEEAlert/Privacy (= 1.8.0)
+  - LEEAlert/Privacy (1.8.0)
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - LEEAlert
+  - SnapKit
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - LEEAlert
+    - SnapKit
+
+SPEC CHECKSUMS:
+  LEEAlert: 20b46f143287d749ec3e718059e064c175932807
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: 926875659a12cfaaf78e89f1697e14f4195756ac
+
+COCOAPODS: 1.16.2
